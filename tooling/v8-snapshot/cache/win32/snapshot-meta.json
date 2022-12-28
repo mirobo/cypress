@@ -147,6 +147,8 @@
     "./node_modules/@cypress/commit-info/node_modules/semver/semver.js",
     "./node_modules/@cypress/get-windows-proxy/node_modules/debug/src/browser.js",
     "./node_modules/@cypress/get-windows-proxy/node_modules/debug/src/index.js",
+    "./node_modules/@cypress/get-windows-proxy/node_modules/registry-js/dist/lib/index.js",
+    "./node_modules/@cypress/get-windows-proxy/node_modules/registry-js/dist/lib/registry.js",
     "./node_modules/@cypress/request-promise/lib/rp.js",
     "./node_modules/@cypress/request/index.js",
     "./node_modules/@cypress/request/lib/helpers.js",
@@ -3964,6 +3966,7 @@
     "./packages/launcher/lib/darwin/util.ts",
     "./packages/launcher/lib/detect.ts",
     "./packages/launcher/lib/errors.ts",
+    "./packages/launcher/lib/known-browsers.ts",
     "./packages/launcher/lib/linux/index.ts",
     "./packages/launcher/lib/types.ts",
     "./packages/launcher/lib/utils.ts",
@@ -4314,5 +4317,5 @@
     "./tooling/v8-snapshot/cache/win32/snapshot-entry.js"
   ],
   "deferredHashFile": "yarn.lock",
-  "deferredHash": "a1a5d22d76eefa1836ceb6b8e9547babb50233b12bc5b5f78a08ea14c7208d1b"
+  "deferredHash": "6e4e329f169de2e47859675603155fe9508d5881db4fd5122de8e9b3612743e1"
 }
